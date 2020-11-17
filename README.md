@@ -1,6 +1,7 @@
 # Zion Yu, CutyApple
 
 ### 😆 Welcome to my Github!
+I'm "CutyApple," a frontend developer who hopes to be a better me tomorrow.
 
 ### ✨I'm currently learning...
 
