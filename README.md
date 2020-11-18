@@ -13,6 +13,7 @@ I'm "CutyApple," a frontend developer who hopes to be a better me tomorrow.
 
 - email : `dbtldhs0915@naver.com`
 - velog : https://velog.io/@cutyapple
+- notion : https://www.notion.so/CutyApple-95384036b15041e79b3caf514daec51f
 
 ### Stack
 
